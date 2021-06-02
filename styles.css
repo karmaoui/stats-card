@@ -1,0 +1,13 @@
+body{
+  background-color: hsl(233, 47%, 7%); color: #fff;
+}
+.container{background-color: hsl(244, 38%, 16%); width:900px;height: 375px;text-align: center;margin: 100px 100px;}
+.desktop{width:50%;float: right;filter:}
+span{color:  hsl(277, 64%, 61%)}
+.text{color: hsla(0, 0%, 100%, 0.6);text-align: left;padding-left: 80px;margin-bottom: 30px;}
+h1{padding-top: 30px;}
+table{padding-left: 80px;line-height: 5px;}
+tr{text-align: center;}
+td{color: hsla(0, 0%, 100%, 0.6);padding-right: 45px;margin-top: 0px;}
+th{padding-right: 50px;}
+h2{margin-bottom: 10px;}
